@@ -1,0 +1,6 @@
+.applied, .capacity{
+    font-weight: 600;
+}
+.capacity{
+    color: #ccc;
+}

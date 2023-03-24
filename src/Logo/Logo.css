@@ -1,0 +1,20 @@
+.icon {
+    font-size: 36px;
+    padding: 12px 12px;
+    background-color: #eeeeee;
+    border-radius: 12px;
+}
+.brand-name{
+    font-weight: 600;
+}
+.status,
+.job-tiltle{
+    padding: 8px;
+}
+.job-tiltle{
+    background-color: #fffbea;
+    color: #ffd63d;
+    margin: auto 0;
+    font-size: 12px;
+    font-weight: 700;
+}
